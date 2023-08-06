@@ -1,3 +1,3 @@
 # Clock Animation
 
-https://pratsins.github.io/
+https://pratsins.github.io/Clock-Animation-CSS/
